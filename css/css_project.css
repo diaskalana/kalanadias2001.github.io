@@ -385,7 +385,7 @@ summary {
 }
 /* Responsive Ends -768px width*/
 /* Responsive Start -425px width*/
-@media(max-width:425px){
+@media(max-width:660px){
     .footer {
         
         padding: 20px 50px;
